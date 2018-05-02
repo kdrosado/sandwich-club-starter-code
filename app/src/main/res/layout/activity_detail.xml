@@ -38,8 +38,7 @@
             android:id="@+id/description_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/description_label_tv"
-            android:padding="16dp" />
+            android:layout_below="@id/description_label_tv" />
 
         <!-- Displays label for origin below description -->
         <TextView
@@ -57,8 +56,7 @@
             android:id="@+id/origin_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/origin_label_tv"
-            android:padding="16dp" />
+            android:layout_below="@id/origin_label_tv" />
 
         <!--Displays label for also known as below origin-->
         <TextView
@@ -76,8 +74,7 @@
             android:id="@+id/also_known_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/also_known_as_label_tv"
-            android:padding="16dp" />
+            android:layout_below="@id/also_known_as_label_tv" />
 
         <!-- Displays label for list of ingredients below aka-->
         <TextView
@@ -95,8 +92,7 @@
             android:id="@+id/ingredients_tv"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@id/ingredients_label_tv"
-            android:padding="16dp" />
+            android:layout_below="@id/ingredients_label_tv" />
 
     </RelativeLayout>
 
