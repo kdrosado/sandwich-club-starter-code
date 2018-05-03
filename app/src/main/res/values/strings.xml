@@ -114,6 +114,8 @@
             meat (lamb, chicken, turkey, beef) or shawarma falafel\",\"Pita or wrap
             bread\",\"Chopped or shredded vegetables\",\"Pickles\",\"Assorted condiments\"]}
         </item>
+
+        <!-- Updated shawarma picture, since original was not working -->
         <item>{\"name\":{\"mainName\":\"Vada Pav\",\"alsoKnownAs\":[\"Bombay Burger\",\"Vada
             Pao\",\"Wada Pav\",\"Wada Pao\",\"Pao Vada\",\"Pav Vada\",\"Pao Wada\",\"Pav
             Wada\"]},\"placeOfOrigin\":\"India\",\"description\":\"Vada Pav is a vegetarian fast
@@ -123,7 +125,7 @@
             It originated as cheap street food in Mumbai, but is now served in food stalls and
             restaurants across India. It is also called Bombay Burger in keeping with its origins
             and its resemblance in physical form to a
-            burger.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/1/15/Vada_Paav-The_Mumbai_Burger.jpg\",\"ingredients\":[\"Deep-fried
+            burger.\",\"image\":\"https://en.wikipedia.org/wiki/Shawarma",\"ingredients\":[\"Deep-fried
             mashed potato patty\",\"chilli peppers\",\"garlic\",\"ginger\",\"bread bun\"]}
         </item>
     </string-array>
